@@ -6,7 +6,7 @@ public class Mix4 {
         int y = 1;
         int x = 0;
         int result = 0;
-        while (x < 5) {
+        while (x < 6) {
             obs[x] = new Puzzle4b();
             obs[x].ivar = y;
             y = y * 10;
